@@ -1,5 +1,5 @@
 # TerminalStore
-TerminalStore is an open-source app store for the terminal!
+TerminalStore is an open-source app market for the terminal!
 Keep in mind that TerminalStore is still Work in progress.
 
 Note: TerminalStore is currently for debian supported OSes only.
