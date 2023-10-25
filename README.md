@@ -5,6 +5,7 @@ Keep in mind that TerminalStore is still Work in progress.
 Note: TerminalStore is currently for debian supported OSes only.
 
 # Installation
+NOTE: Before running this command, make sure you are in your home directory.
 Install TerminalStore by entering this command in the terminal:
 ```
 git clone https://github.com/deanpost/TerminalStore.git && cd TerminalStore && python3 setup.py
