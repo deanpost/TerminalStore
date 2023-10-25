@@ -2,8 +2,8 @@
 import readline
 import os
 print()
-print("TerminalStore Version 0.2 Nightly (The Entertainment Update)")
-print("PROTIP: Do /help for help!")
+print("TerminalStore Version 0.2.1 Nightly")
+print("New here?: Do /help for to get started!")
 while True:
     print()
     usrinp = input("command# ")
@@ -409,7 +409,7 @@ while True:
         
 
     elif (usrinp == "/version"):
-        print ("Current version: 0.2 Nightly (The Entertainment Update)")
+        print ("Current version: 0.2.1 Nightly")
 
  #/info commmands
     elif (usrinp == "/info"):
